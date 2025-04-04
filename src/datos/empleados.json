@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "cargo": "Desarrollador",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "María Gómez",
+      "cargo": "Diseñadora UX",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos López",
+      "cargo": "Gerente de Proyecto",
+      "activo": true
+    }
+  ]
+  
